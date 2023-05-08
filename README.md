@@ -3,7 +3,7 @@ Activator for Windows 11. Works great with Windows 11 Pro.
 
 @echo off
 
-title Windows 11 ALL version activator BY Tech Tricks XYZ&cls&echo ************************************ &echo Tech Tricks XYZ &echo.&echo
+title Windows 11 ALL version activator BY Tech Livie&cls&echo ************************************ &echo Tech Tricks XYZ &echo.&echo
 
 ************************************ &echo Windows 11 activation...
 
